@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I completed all required functionality but am unsure how to use the View binding library. I am also stuck on the YouTube functionality; I'm unsure how to parse the video ids.
 
 ## Open-source libraries used
 
