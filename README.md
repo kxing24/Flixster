@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-I completed all required functionality but am unsure how to use the View binding library. I am also stuck on the YouTube functionality; I'm unsure how to parse the video ids.
+I completed all required functionality but am unsure how to use the View binding library. I am also stuck on the YouTube functionality; I'm unsure how to parse and use the video ids.
 
 ## Open-source libraries used
 
