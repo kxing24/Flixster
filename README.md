@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://github.com/kxing24/Flixster/raw/master/FlixsterWalkthrough.gif)
+<img src="https://github.com/kxing24/Flixster/raw/master/FlixsterWalkthrough.gif" width="250" />
 
 ## Notes
 
