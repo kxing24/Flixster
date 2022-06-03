@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/dWX4fdJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/kxing24/Flixster/raw/master/FlixsterWalkthrough.gif)
 
 ## Notes
 
