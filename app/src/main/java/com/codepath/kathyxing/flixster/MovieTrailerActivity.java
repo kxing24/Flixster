@@ -4,7 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MovieTrailerActivity extends AppCompatActivity {
+import com.google.android.youtube.player.YouTubeBaseActivity;
+
+public class MovieTrailerActivity extends YouTubeBaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
