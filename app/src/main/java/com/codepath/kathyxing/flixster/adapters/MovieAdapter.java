@@ -112,8 +112,7 @@ public class MovieAdapter extends  RecyclerView.Adapter<MovieAdapter.ViewHolder>
 
             int radius = 30;
 
-            //Glide.with(context).load(imageUrl).transform(new RoundedCorners(radius)).placeholder(placeholderId).into(ivPoster);
-            Glide.with(context).load(imageUrl).placeholder(placeholderId).into(ivPoster);
+            Glide.with(context).load(imageUrl).transform(new RoundedCorners(radius)).placeholder(placeholderId).into(ivPoster);
         }
 
         // when the user clicks on a row, show MovieDetailsActivity for the selected movie
